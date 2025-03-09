@@ -1,4 +1,4 @@
-# tflite_eye
+# Emotion_detector
 
 A new Flutter project.
 
